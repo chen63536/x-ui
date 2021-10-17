@@ -1,8 +1,8 @@
 const Protocols = {
+    SHADOWSOCKS: 'shadowsocks',
     VMESS: 'vmess',
     VLESS: 'vless',
     TROJAN: 'trojan',
-    SHADOWSOCKS: 'shadowsocks',
     DOKODEMO: 'dokodemo-door',
     MTPROTO: 'mtproto',
     SOCKS: 'socks',
